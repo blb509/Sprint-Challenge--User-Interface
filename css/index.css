@@ -237,10 +237,16 @@ header.home-header nav a {
 
 .about-middle .about-boxes h1 {
     margin-top: 15px;
-
 }
 
 .about-middle .about-boxes img {
     margin-top: 35px;
+}
 
+.work {
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0 30px 20px;
+    justify-content: center;
+    width: 760px
 }
