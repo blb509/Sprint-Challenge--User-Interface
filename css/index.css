@@ -159,7 +159,7 @@ header.home-header nav a {
     text-decoration: none;
 }
 
-  header.home-header img.road {
+  header.home-header img.jumbo {
     margin-top: 40px;
     margin-bottom: 30px;
 }
@@ -202,4 +202,11 @@ header.home-header nav a {
 
 #ten {
     background: dodgerblue;
+}
+
+.about {
+    padding: 0 20px 20px 20px;
+    margin-bottom: 25px;
+    border-bottom: 1px black;
+    border-style: dashed;
 }
